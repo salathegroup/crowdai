@@ -20,7 +20,7 @@
     "jquery": "^3.2.1",
     "js-yaml": "^3.10.0",
     "midi-player-js": "^2.0.3",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.13.1",
     "notebookjs": "^0.3.0",
     "path-complete-extname": "^0.1.0",
     "postcss-loader": "^2.1.0",
